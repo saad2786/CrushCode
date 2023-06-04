@@ -1,0 +1,22 @@
+.sideBar
+{
+
+    background-color: #394867;
+    color:#DDE6ED;
+    flex: 0.2;
+}
+h4{
+    margin: 10px;
+}
+p{
+    margin: 0;
+}
+.sideBar p
+{
+    padding: 5px 15px;
+}
+@media only screen and (max-width: 850px) {
+  .sideBar {
+    display: none;
+  }
+}

@@ -1,0 +1,57 @@
+.blogCard
+{
+    width: 350px !important;
+    background-color: #F8F6F4;
+    border: 1px solid #c5cacc;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+.details
+{
+    padding: 15px ;
+}
+.title
+{
+    font-size: 18px;
+}
+.date
+{
+    font-size: 12px;
+    color: #9BA4B5;
+}
+.expand
+{
+    font-size: 15px ;
+    margin-top: 10px;
+    color: #4B56D2;
+}
+.thumbnail
+{
+    width: 348px;
+}
+.blogs
+{
+    padding: 30px;
+    flex: 0.9;
+    margin: auto;
+    
+}
+.Cards
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    
+}
+.blog-heading
+{
+    text-align: center;
+    margin:20px auto ;
+    height: fit-content;
+    width: 40%    ;
+    padding:10px 10px !important;
+    border-radius: 10px;
+    background-color: #655DBB;
+    color: white;
+}

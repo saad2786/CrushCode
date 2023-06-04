@@ -1,0 +1,9 @@
+.language{
+    background-color: #ACB1D6;
+    display: flex;
+    color: white;
+    font-weight: bold;
+}
+.language div{
+    padding: 10px 15px;
+}

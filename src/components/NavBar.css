@@ -1,0 +1,32 @@
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    background-color: #645CBB;
+    color: white;
+}
+.nav-btn
+{
+    display: flex;
+    align-items: center;
+    
+}
+
+.nav-btn div{
+    margin-right: 25px;
+}
+.nav-btn button{
+    margin-right: 10px;
+}
+.btn-login
+{
+    background-color: #9376E0;
+        color: white;
+
+}
+.btn-sign
+{
+    background-color: #BFACE2;
+    color: white;
+}
